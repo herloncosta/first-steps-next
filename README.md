@@ -1,4 +1,4 @@
-Esse é um projeto em Next.js [Next.js](https://nextjs.org/) inicializado com o seguinte comando: [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Esse é o meu primeiro projeto em [Next.js](https://nextjs.org/). Foi inicializado com o seguinte comando: [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Vamos começar
 
@@ -23,6 +23,4 @@ A pasta `pages/api` é mapeada para `/api/*`. Os arquivos nessa pasta são trata
 Para aprender mais sobre o Next.js, dê uma olhada nos recursos a seguir:
 
 - [Next.js Documentation](https://nextjs.org/docs) - aprenda sobre ferramentas e API do Next.js.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Learn Next.js](https://nextjs.org/learn) - um tutorial interativo de Next.js.
