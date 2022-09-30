@@ -1,0 +1,20 @@
+.container {
+    height: 60px;
+    background-color: #777;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.container h1 {
+    font-size: 1.4em;
+    margin: 0;
+}
+
+.container a {
+    color: #fff;
+    background-color: crimson;
+    padding: 10px 20px;
+    border-radius: 8px;
+}

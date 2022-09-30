@@ -1,5 +1,5 @@
-import Header from "../components/Header";
+import Layout from "../components/Layout";
 
 export default function Home() {
-	return <Header title="Fundamentos de Next.js e React.js" />;
+	return <Layout />;
 }

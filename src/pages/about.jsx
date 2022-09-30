@@ -1,10 +1,15 @@
-import Link from "next/link";
+import styles from "../styles/About.module.css";
+
+import Header from "../components/Header";
+import Main from "../components/Main";
+import Footer from "../components/Footer";
 
 export default function About() {
 	return (
-		<>
-			<Link href="/">Home</Link>
-			<h1>Página de sobre</h1>
-		</>
+		<div className={styles.container}>
+			<Header title="Sobre" href="/" btn="Voltar" />
+			<Main />
+			<Footer />
+		</div>
 	);
 }
